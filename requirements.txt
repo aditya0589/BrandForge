@@ -1,0 +1,8 @@
+streamlit
+bcrypt
+langchain
+langchain_core
+langchain_goole_genai
+reportlab
+Pillow
+requests
