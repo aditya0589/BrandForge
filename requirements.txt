@@ -2,7 +2,7 @@ streamlit
 bcrypt
 langchain
 langchain_core
-langchain_goole_genai
+langchain_google_genai
 reportlab
 Pillow
 requests
